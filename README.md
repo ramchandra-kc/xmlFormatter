@@ -6,7 +6,11 @@ I have used xmllint to format xml files.
 
 xmllint usage
 ```powershell
-xmllint --format "filename" --output "outputFilename"
+xmllint --format "inputFilePath" --output "outputFilePath"
+```
+for more options see 
+```powershell
+xmllint --help
 ```
 ## Using EXE
 
