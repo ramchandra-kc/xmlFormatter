@@ -5,3 +5,6 @@
 compiled/
 /doc/
 /node_modules/
+/test
+/test2
+package-lock.json

@@ -1,0 +1,27 @@
+{
+  "name": "batscript",
+  "version": "1.0.0",
+  "description": "Format all .xml and .rels files located inside a folder using .bat file.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg -t node18-win-arm64 --no-bytecode ./index.js --public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramchandra-kc/xmlFormatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramchandra-kc/xmlFormatter/issues"
+  },
+  "homepage": "https://github.com/ramchandra-kc/xmlFormatter#readme"
+}
