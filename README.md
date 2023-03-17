@@ -62,3 +62,11 @@ Note: Destination of archive or extract will be the current folder and name of z
 If it already exists, then version(v) followed by number is created.
 
 For ex: if Inside test folder, test.zip is already there then testv1.zip will be created and if testv1.zip also exists then testv2.zip will be created and so on.
+
+
+# Installations
+
+1. Install 7zip and add it to path.
+2. Download extractFormatZip.zip from here, extract and add main folder to path.
+3. Download zipExtractFormat.exe and run it to enable shortcuts.
+
