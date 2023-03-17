@@ -68,5 +68,5 @@ For ex: if Inside test folder, test.zip is already there then testv1.zip will be
 
 1. Install 7zip and add it to path.
 2. Download extractFormatZip.zip from here, extract and add main folder to path.
-3. Download zipExtractFormat.exe and run it to enable shortcuts.
+3. Run zipExtractFormat.exe located inside the extracted path and run it to enable shortcuts.
 
